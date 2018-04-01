@@ -26,6 +26,7 @@
     "zone.js": "^0.8.14"
   },
   "devDependencies": {
+    "@angular-devkit/core": "0.0.29",
     "@angular/cli": "1.6.1",
     "@angular/compiler-cli": "^5.0.0",
     "@angular/language-service": "^5.0.0",
@@ -45,5 +46,16 @@
     "ts-node": "~3.2.0",
     "tslint": "~5.7.0",
     "typescript": "~2.4.2"
-  }
+  },
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.1.",
+  "main": "karma.conf.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jducrot/ng5-grocery-list.git"
+  },
+  "author": "Jean Ducrot",
+  "bugs": {
+    "url": "https://github.com/jducrot/ng5-grocery-list/issues"
+  },
+  "homepage": "https://github.com/jducrot/ng5-grocery-list#readme"
 }
